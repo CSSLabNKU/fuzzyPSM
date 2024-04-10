@@ -12,7 +12,7 @@ This project comprises both Windows and Linux versions.
 The paper is available at the [IEEE Xplore](https://ieeexplore.ieee.org/document/7579775). You can cite our work with the following BibTeX entry:
 
 ```latex
-@inproceedings{rautenstrauch2024auth,
+@inproceedings{wang2016fuzzypsm,
     author      = {
         Wang, Ding and 
         He, Debiao and 
