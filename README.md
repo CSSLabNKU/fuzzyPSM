@@ -1,6 +1,8 @@
 ## fuzzyPSM
 Code for our 2016 IEEE/IFIP DSN paper "fuzzyPSM: A New Password Strength Meter Using Fuzzy Probabilistic Context-Free Grammars"
 
+<b>If you decide to use our code, please cite our paper 🤝.</b>
+
 **When users create a new account, most of them (77.38%) simply retrieve one of their existing passwords from memory and then reuse (or slightly modify) it.**
 
 Based on this observation, we suggest a new password strength meter, named *fuzzyPSM*, that employs fuzzy probabilistic context-free grammar (PCFG). 
